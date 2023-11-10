@@ -20,5 +20,5 @@
 - Deleting the user:
 ![image](https://github.com/MaxOleniuh/node-postgres/assets/120305133/11cd3fc0-50b8-400f-9fc9-f5d6f52b0c0d)
 
--Retrieve single user by their id: 
+- Retrieving single user by their id: 
 ![image](https://github.com/MaxOleniuh/node-postgres/assets/120305133/17a233aa-43bc-4dcc-a0b1-27515c6adbe7)
